@@ -1,7 +1,7 @@
 # Data Science Basics in 7 Steps
 
-[instructor](https://www.udemy.com/user/datai-team/)
-[original git repo](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU)
+[instructor link](https://www.udemy.com/user/datai-team/)
+[original git repo link](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU)
 
 ## Course List
 
