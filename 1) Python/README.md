@@ -1,6 +1,7 @@
 # Python: Yapay Zeka için Python Programlama (1)
 
 https://www.udemy.com/course/python-sfrdan-uzmanlga-programlama-1
+
 https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU/tree/master/Python%20Programming%20for%20Artificial%20Intelligence%20(1)
 
 
